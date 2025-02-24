@@ -6,7 +6,7 @@ Dr.Path – Doctor Appointment System
 
 Dr.Path is a user-friendly doctor appointment system designed to help patients book appointments and find the right doctors for their needs. Whether it's a general check-up or a specialized consultation, Dr.Path makes the process seamless and efficient.
 
-🚀 Features
+🚀 Features.
 
 Doctor Search – Find doctors based on specialization, location, and availability.
 
